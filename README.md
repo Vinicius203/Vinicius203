@@ -1,4 +1,4 @@
-### Hello! I'm Vinicius, a 21yo aspiring to be a Full Stack Developer.
+### Hello! I'm Vinicius, a 21y aspiring to be a Full Stack Developer.
 
 - I'm working hard to be a Full Stack Developer 📚
 
