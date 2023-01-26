@@ -1,12 +1,12 @@
-### Hello! I'm Vinicius, a first year Computer Science student. 
+### Hello! I'm Vinicius, a 21yo aspiring to be a Full Stack Developer.
 
 - I'm working hard to be a Full Stack Developer 📚
 
 - Studying Python, JavaScript, HTML and CSS ☕
 
-- Técnico em Informática pelo IFSULDEMINAS 🎓
+- IT Technical Degree by IFSULDEMINAS 🎓
 
-- Graduando em Ciência da Computação pela PUC Minas 💕
+- Computer Science Student at PUC Minas 💕
 
 ## Github Stats
 
