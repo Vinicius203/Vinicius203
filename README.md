@@ -2,7 +2,7 @@
 
 - I'm working hard to be a Full Stack Developer 📚
 
-- Studying Python, PostgreSQL, MySQL, Java and C# ☕
+- Studying Python, PostgreSQL, MySQL, and Javascript ☕
 
 - IT Technical Degree by IFSULDEMINAS 🎓
 
