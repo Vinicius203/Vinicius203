@@ -1,8 +1,8 @@
-### Hello! I'm Vinicius, a 21y aspiring to be a Full Stack Developer.
+### Hello! I'm Vinicius, a 22y aspiring to be a Software Developer.
 
-- I'm working hard to be a Full Stack Developer 📚
+- I'm working hard to enhance my knowledge in several coding languages 📚
 
-- Studying Python, PostgreSQL, MySQL, and Javascript ☕
+- Studying Python, PostgreSQL, MySQL, Javascript and Data Science at the moment☕
 
 - IT Technical Degree by IFSULDEMINAS 🎓
 
