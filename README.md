@@ -2,7 +2,7 @@
 
 - I'm working hard to enhance my knowledge in several coding languages 📚
 
-- Studying Python, PostgreSQL, MySQL, Javascript and Data Science at the moment ☕
+- Studying Javascript, Python and Data Science at the moment ☕
 
 - IT Technical Degree by IFSULDEMINAS 🎓
 
