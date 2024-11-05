@@ -1,8 +1,8 @@
-### Hello! I'm Vinicius, a 22y aspiring to be a Software Developer.
+### Hello! I'm Vinicius, a 23y Software Engineer.
 
 - I'm working hard to enhance my knowledge in several coding languages 📚
 
-- Studying Javascript, Python and Data Science at the moment ☕
+- Studying React, Python and Data Science at the moment ☕
 
 - IT Technical Degree by IFSULDEMINAS 🎓
 
